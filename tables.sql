@@ -16,3 +16,6 @@ VALUES ('Jane', 'sales', 5000),
 ('Steven', 'Software engineer', 6000),
 ('Kevin', 'janitor', 3000);
 
+SELECT *
+FROM employees
+ORDER BY name DESC;
